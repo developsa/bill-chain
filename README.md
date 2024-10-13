@@ -26,7 +26,7 @@ Follow these steps to set up the BillChain project locally:
 
 ### Frontend Setup
 1. Clone the repository:
-   https://github.com/developsa/first-web3-project.git 
+   https://github.com/developsa/bill-chain.git 
 2. cd billchain-frontend
 3. npm install
 4. npm start
